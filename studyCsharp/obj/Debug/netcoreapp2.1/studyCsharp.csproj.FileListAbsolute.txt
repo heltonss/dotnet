@@ -1,0 +1,11 @@
+C:\Users\helton.silveira\Documents\dotnet\studyCsharp\bin\Debug\netcoreapp2.1\studyCsharp.deps.json
+C:\Users\helton.silveira\Documents\dotnet\studyCsharp\bin\Debug\netcoreapp2.1\studyCsharp.runtimeconfig.json
+C:\Users\helton.silveira\Documents\dotnet\studyCsharp\bin\Debug\netcoreapp2.1\studyCsharp.runtimeconfig.dev.json
+C:\Users\helton.silveira\Documents\dotnet\studyCsharp\bin\Debug\netcoreapp2.1\studyCsharp.dll
+C:\Users\helton.silveira\Documents\dotnet\studyCsharp\bin\Debug\netcoreapp2.1\studyCsharp.pdb
+C:\Users\helton.silveira\Documents\dotnet\studyCsharp\obj\Debug\netcoreapp2.1\studyCsharp.csprojAssemblyReference.cache
+C:\Users\helton.silveira\Documents\dotnet\studyCsharp\obj\Debug\netcoreapp2.1\studyCsharp.csproj.CoreCompileInputs.cache
+C:\Users\helton.silveira\Documents\dotnet\studyCsharp\obj\Debug\netcoreapp2.1\studyCsharp.AssemblyInfoInputs.cache
+C:\Users\helton.silveira\Documents\dotnet\studyCsharp\obj\Debug\netcoreapp2.1\studyCsharp.AssemblyInfo.cs
+C:\Users\helton.silveira\Documents\dotnet\studyCsharp\obj\Debug\netcoreapp2.1\studyCsharp.dll
+C:\Users\helton.silveira\Documents\dotnet\studyCsharp\obj\Debug\netcoreapp2.1\studyCsharp.pdb

@@ -1,0 +1,11 @@
+C:\Users\helton.silveira\Documents\dotnet\ClientRest\bin\Debug\netcoreapp2.1\ClientRest.deps.json
+C:\Users\helton.silveira\Documents\dotnet\ClientRest\bin\Debug\netcoreapp2.1\ClientRest.runtimeconfig.json
+C:\Users\helton.silveira\Documents\dotnet\ClientRest\bin\Debug\netcoreapp2.1\ClientRest.runtimeconfig.dev.json
+C:\Users\helton.silveira\Documents\dotnet\ClientRest\bin\Debug\netcoreapp2.1\ClientRest.dll
+C:\Users\helton.silveira\Documents\dotnet\ClientRest\bin\Debug\netcoreapp2.1\ClientRest.pdb
+C:\Users\helton.silveira\Documents\dotnet\ClientRest\obj\Debug\netcoreapp2.1\ClientRest.csprojAssemblyReference.cache
+C:\Users\helton.silveira\Documents\dotnet\ClientRest\obj\Debug\netcoreapp2.1\ClientRest.csproj.CoreCompileInputs.cache
+C:\Users\helton.silveira\Documents\dotnet\ClientRest\obj\Debug\netcoreapp2.1\ClientRest.AssemblyInfoInputs.cache
+C:\Users\helton.silveira\Documents\dotnet\ClientRest\obj\Debug\netcoreapp2.1\ClientRest.AssemblyInfo.cs
+C:\Users\helton.silveira\Documents\dotnet\ClientRest\obj\Debug\netcoreapp2.1\ClientRest.dll
+C:\Users\helton.silveira\Documents\dotnet\ClientRest\obj\Debug\netcoreapp2.1\ClientRest.pdb
